@@ -1,0 +1,8 @@
+{
+    "editor.snippetSuggestions": "top",
+    "editor.tabSize": 2,
+    "eslint.autoFixOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
